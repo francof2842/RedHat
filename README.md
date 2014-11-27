@@ -3,7 +3,7 @@ RedHat
 
 Este programa fue creado para resolver el Desafio Red Hat 2048.
 
-Para esto se conecta al servidor proporcionado por RedHat para obtener el oard y los aleatorios que se van agregando al mismo.
+Para esto se conecta al servidor proporcionado por RedHat para obtener el Board y los aleatorios que se van agregando al mismo.
 
 De cualquier manera es programa es 100% funcional sin el uso de los servidores, solo se necesita realizar un par de cambios.
 
